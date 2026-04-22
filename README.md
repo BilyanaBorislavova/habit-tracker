@@ -21,7 +21,7 @@ The app follows object oriented design for habit management and functional progr
 
 ## Installation
 1. Clone the repository
-git clone // add git path here
+git clone https://github.com/BilyanaBorislavova/habit-tracker.git
 cd habit-tracker
 
 2. Install dependencies
